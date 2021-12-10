@@ -51,6 +51,7 @@ markdown_extensions:
   
 nav:
   - 概览: "index.md"
+  - 第一章: "Chapter1/README.md"
 
 # nav:
 #   - 概览: "index.md"
